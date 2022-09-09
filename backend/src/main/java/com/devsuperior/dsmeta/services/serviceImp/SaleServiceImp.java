@@ -1,4 +1,4 @@
-package com.devsuperior.dsmeta.repositories.serviceImp;
+package com.devsuperior.dsmeta.services.serviceImp;
 
 import com.devsuperior.dsmeta.entities.Sale;
 import com.devsuperior.dsmeta.repositories.SaleRepository;
