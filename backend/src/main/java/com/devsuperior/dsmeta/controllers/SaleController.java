@@ -3,7 +3,6 @@ package com.devsuperior.dsmeta.controllers;
 import com.devsuperior.dsmeta.entities.Sale;
 import com.devsuperior.dsmeta.services.SaleService;
 import com.devsuperior.dsmeta.services.SmsService;
-import com.devsuperior.dsmeta.services.serviceImp.SmsServiceImp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
